@@ -1,5 +1,5 @@
 # TC002C-DUO-Viewer
-A Python script that decodes the thermal data from a Topdon TC002C DUO thermal camera and displays it. Different from Topdon's Topview software, it allows manual color grade scaling and works on Windows and Linux.
+A Python script that decodes the thermal data from a Topdon TC002C DUO thermal camera and displays it. Different from Topdon's Topview software, it allows manual color grade scaling and works under Windows and Linux.
 It might work for the other TC002 models from Topdon as well but I haven't tested it. 
 
 I derived the scaling factors from practical measurements so they won't be 100% correct.
